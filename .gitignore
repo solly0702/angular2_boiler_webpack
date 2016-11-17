@@ -1,0 +1,25 @@
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Node Files #
+/node_modules
+/bower_components
+
+# IDE #
+.idea/
+*.swp
+
+# Doc #
+/doc/
